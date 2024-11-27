@@ -1,0 +1,16 @@
+{
+   "name": "juniosousa/ficha-ifce",
+   "authors": [
+      {
+         "name": "Junio Sousa",
+         "email": "juniososusa120@gmail.com"
+      }
+   ],
+   "require": {},
+   "autoload": {
+      "psr-4": {
+         "app\\": "app"
+      },
+      "files": []
+   }
+}
